@@ -1,10 +1,12 @@
 # Slater
-<h1 align="center">Welcome! I'm Slater</h1>
-<h3 align="center">Python Main</h3>
+<h1 align="center">Bem-vindo! eu sou o Gustavo_L</h1>
+<h1 align="center">Welcome! I'm Gustavo_L</h1>
+
+<h3 align="center">Ao iniciar um novo projeto no Git, você se questiona sobre a terminologia a ser utilizada: "Origem" ou "Main"? Qual é a melhor opção do ponto de vista histórico e inclusivo? Vamos refletir sobre isso juntos! 🤔</h3>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=NotSlater)
 
-# Stats
+# _STATUS_
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=NotSlater&theme=tokyonight&show_icons=true)
 
