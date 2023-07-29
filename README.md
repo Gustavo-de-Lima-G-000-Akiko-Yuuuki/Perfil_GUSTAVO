@@ -8,7 +8,7 @@
 
 # _STATUS_
 
-![Stats](https://github-readme-stats.vercel.app/api?username=NotSlater&theme=tokyonight&show_icons=true)
+![Stats](https://raw.githubusercontent.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/Perfil_GUSTAVO/main/index.html)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NotSlater&theme=tokyonight)
 
